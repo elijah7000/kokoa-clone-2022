@@ -4,7 +4,7 @@
     background-color: #fafafa;
     padding: 15px 0px;
     font-size: 16px;
-    margin-bottom: 5px;
+    margin-top: -20px;
   }
   
   #friends-display-link i {
@@ -12,7 +12,9 @@
   }
 
   .friends-screen {
-    padding:var(--horizontal-space)
+    padding:var(--horizontal-space);
+    position:relative;
+    top:-15px;
   }
 
   .friends-screen__channel{
