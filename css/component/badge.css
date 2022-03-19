@@ -9,3 +9,16 @@
     color: white;
     font-weight: 600; 
 }
+.badge__small {
+    background-color: tomato;
+    width: 5px;
+    height: 5px;
+    border: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left:75px;
+    bottom:25px;
+
+}
