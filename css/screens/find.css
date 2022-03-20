@@ -28,3 +28,29 @@
     font-size: 18px;;
     color: var(--grey);
 }
+
+.open-chat__header{
+    display: flex;
+    justify-content: space-between;
+    opacity: 0.8;
+}
+
+.open-chat__header span{
+    opacity: 0.8;
+}
+
+.open-post{
+    display: flex;
+}
+.open-post__title {
+    font-weight: 600;
+    margin-bottom: 2px;
+}
+.open-post__hashtags{
+    text-transform: uppercase;
+    opacity: 0.5;
+}
+.open-post__members {
+    display:flex;
+    align-items: center;
+}
