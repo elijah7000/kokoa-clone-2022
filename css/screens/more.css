@@ -1,0 +1,28 @@
+.more-screen .icon-row {
+    margin-top: 30px;
+}
+
+.more-suggestions {
+    margin-top: 50px;
+    border-top: var(--main-border);
+    padding-top:40px;
+}
+.more-suggestions__title{
+    margin-bottom: 30px;
+}
+
+.exclamationmark{
+    color: tomato;
+    width: 15px;
+    height: 15px;
+    border: 2px solid tomato;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 650; 
+    position: relative;
+    left: 130px;
+    top:-17px;
+    margin-left: 6px;
+}

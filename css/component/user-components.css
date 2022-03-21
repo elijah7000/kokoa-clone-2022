@@ -15,6 +15,7 @@
 .user-component__title{
     font-weight: 600;
     font-size: 18px;
+    color: black;
 }
 .user-component__subtitle{
     margin-top: 7px;

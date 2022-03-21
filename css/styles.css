@@ -6,11 +6,13 @@
 @import "component/screen-header.css";
 @import "component/user-components.css";
 @import "component/badge.css";
+@import "component/icon-row.css";
 
 /* Screen */
 @import "screens/login.css";
 @import "screens/friends.css";
 @import "screens/find.css";
+@import "screens/more.css";
 body {
   color: #2e363e;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
