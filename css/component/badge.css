@@ -22,3 +22,17 @@
     bottom:25px;
 
 }
+.exclamationmark{
+    color: tomato;
+    width: 15px;
+    height: 15px;
+    border: 2px solid tomato;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 650; 
+    position: relative;
+    top:12px;
+    margin-left: 6px;
+}
