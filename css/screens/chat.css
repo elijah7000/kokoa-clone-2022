@@ -155,7 +155,7 @@
 .reply__column:last-child > i,
 .reply__column:last-child button{
     position:absolute;
-    right:-3px;
+    right:-1px;
     top:2px;
 }
 
@@ -184,11 +184,11 @@
 .reply .reply__column:first-child,
 .reply .fa-grimace,
 .reply button{
-    opacity: 0;
+    opacity: 1;
 }
 
 .reply:focus-within input:focus {
-    width: 95vw;
+    width: 100vw;
     transform: translateX(-13%) translateY(-80px);
 }
 
