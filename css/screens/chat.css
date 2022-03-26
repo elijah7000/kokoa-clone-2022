@@ -184,11 +184,11 @@
 .reply .reply__column:first-child,
 .reply .fa-grimace,
 .reply button{
-    transition: opacity 0;
+    opacity: 0;
 }
 
-input:focus{
-    width: 98vw;
+.reply:focus-within input:focus {
+    width: 95vw;
     transform: translateX(-13%) translateY(-80px);
 }
 
